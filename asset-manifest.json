@@ -1,13 +1,14 @@
 {
-  "main.css": "/React-Search-App/static/css/main.4f295106.chunk.css",
-  "main.js": "/React-Search-App/static/js/main.e79c88e1.chunk.js",
-  "main.js.map": "/React-Search-App/static/js/main.e79c88e1.chunk.js.map",
+  "main.css": "/React-Search-App/static/css/main.4a7497fc.chunk.css",
+  "main.js": "/React-Search-App/static/js/main.61f8e1f4.chunk.js",
+  "main.js.map": "/React-Search-App/static/js/main.61f8e1f4.chunk.js.map",
   "runtime~main.js": "/React-Search-App/static/js/runtime~main.ecd8f905.js",
   "runtime~main.js.map": "/React-Search-App/static/js/runtime~main.ecd8f905.js.map",
   "static/js/2.0f9f8e5e.chunk.js": "/React-Search-App/static/js/2.0f9f8e5e.chunk.js",
   "static/js/2.0f9f8e5e.chunk.js.map": "/React-Search-App/static/js/2.0f9f8e5e.chunk.js.map",
   "index.html": "/React-Search-App/index.html",
-  "precache-manifest.8ec00778f1ab0b7542298775cbf713ae.js": "/React-Search-App/precache-manifest.8ec00778f1ab0b7542298775cbf713ae.js",
+  "precache-manifest.28acee983adf2a9294d897ebea1e5594.js": "/React-Search-App/precache-manifest.28acee983adf2a9294d897ebea1e5594.js",
   "service-worker.js": "/React-Search-App/service-worker.js",
-  "static/css/main.4f295106.chunk.css.map": "/React-Search-App/static/css/main.4f295106.chunk.css.map"
+  "static/css/main.4a7497fc.chunk.css.map": "/React-Search-App/static/css/main.4a7497fc.chunk.css.map",
+  "static/media/App.css": "/React-Search-App/static/media/back.989e9fc9.jpg"
 }
